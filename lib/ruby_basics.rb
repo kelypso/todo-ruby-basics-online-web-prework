@@ -6,8 +6,8 @@ def assign_variable(value)
   name=value
 end
 
-def argue(argue)
-  puts "#{argue}"
+def argue(phrase)
+  puts "#{phrase}"
 end
 
 def greeting
